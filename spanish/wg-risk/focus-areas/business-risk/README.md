@@ -5,7 +5,7 @@
 Metric | Question
 --- | ---
 [Average issue Resolution Time](average-issue-resolution-time.md) | How long does it take for an issue to be resolved?
-[Bus Factor](bus-factor.md)| How high is the risk to a project should the most active people leave?
+[Contributor Absence Factor](contributor-absence-factor.md)| How high is the risk to a project should the most active people leave?
 [Committers](committers.md) | How robust are the contributors to a community?
 [Elephant Factor](elephant-factor.md)| What is the distribution of work in the community?
 [Issues Open Age](issues-open-age.md) | How long is an issue open for before it is closed?
